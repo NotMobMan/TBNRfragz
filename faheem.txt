@@ -1,5 +1,0 @@
-{
-       "ip":"TBNRFRAGZ123.aternos.me:,
-       "port":"47264",
-       "name":"NotMobMan"
-}
